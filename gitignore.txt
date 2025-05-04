@@ -1,0 +1,5 @@
+#ignore graph files
+graphs/
+
+#ignore checkpoint files
+**/.ipynb_checkpoints/
